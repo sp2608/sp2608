@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Prathamesh Kothalkar" src="dark.svg">
+  <img alt="Sumit Pawar" src="dark.svg">
 </picture>
 
 # Hi, I'm Sumit Pawar 👋
