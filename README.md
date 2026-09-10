@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Prathamesh Kothalkar" src="dark.svg">
+</picture>
+
 # Hi, I'm Sumit Pawar 👋
 
 ### Java Backend Developer | Spring Boot | React | DSA
